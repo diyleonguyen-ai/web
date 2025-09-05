@@ -1,0 +1,137 @@
+{
+  "website_structure": {
+    "header": {
+      "logo": "Land Hùng Phát",
+      "navigation": ["Home", "About", "Services", "Contact"],
+      "contact_info": {
+        "phone": "092512547",
+        "cta_button": "Get Quote"
+      }
+    },
+    "hero": {
+      "title": "Land Hùng Phát",
+      "subtitle": "Your Trusted Business Partner",
+      "description": "Professional business services and innovative solutions tailored to help your business thrive in today's competitive market.",
+      "key_features": [
+        "Professional Excellence",
+        "Trusted Partnership", 
+        "Quality Solutions",
+        "24/7 Support"
+      ],
+      "cta_buttons": ["Explore Services", "Contact Us"]
+    },
+    "about": {
+      "title": "About Land Hùng Phát",
+      "description": "Land Hùng Phát is a trusted business partner committed to delivering exceptional services and innovative solutions. Located in the heart of Ho Chi Minh City, we serve businesses with professional excellence and dedication.",
+      "mission": "Your Success is Our Mission",
+      "features": [
+        {
+          "title": "Expert Team",
+          "description": "Professional team with years of experience in business solutions and customer service."
+        },
+        {
+          "title": "Quality Assurance", 
+          "description": "International standards and quality assurance in all our services and solutions."
+        },
+        {
+          "title": "Focused Approach",
+          "description": "Dedicated to providing tailored solutions that meet your specific business needs."
+        },
+        {
+          "title": "24/7 Support",
+          "description": "Round-the-clock customer support to ensure your business operations run smoothly."
+        }
+      ],
+      "stats": {
+        "happy_clients": "100+",
+        "years_experience": "5+"
+      }
+    },
+    "services": {
+      "title": "Professional Services",
+      "description": "We offer a comprehensive range of professional services designed to help your business thrive and succeed in today's competitive marketplace.",
+      "services_list": [
+        {
+          "name": "Business Consulting",
+          "description": "Strategic business advice and consulting services to help your company grow and succeed in competitive markets.",
+          "features": ["Strategic Planning", "Market Analysis", "Growth Strategy", "Risk Assessment"]
+        },
+        {
+          "name": "Professional Services",
+          "description": "Comprehensive professional solutions tailored to meet your specific business requirements and objectives.",
+          "features": ["Project Management", "Process Optimization", "Quality Assurance", "Team Training"]
+        },
+        {
+          "name": "Customer Support",
+          "description": "24/7 dedicated customer service and support to ensure your business operations run smoothly at all times.",
+          "features": ["24/7 Availability", "Multi-channel Support", "Quick Response", "Expert Assistance"]
+        },
+        {
+          "name": "Business Growth",
+          "description": "Data-driven strategies and solutions designed to accelerate your business growth and market expansion.",
+          "features": ["Growth Analytics", "Market Expansion", "Performance Metrics", "ROI Optimization"]
+        },
+        {
+          "name": "Quality Assurance",
+          "description": "Rigorous quality control and assurance processes to ensure the highest standards in all deliverables.",
+          "features": ["Quality Control", "Standards Compliance", "Process Auditing", "Continuous Improvement"]
+        },
+        {
+          "name": "Innovation Solutions",
+          "description": "Cutting-edge innovative solutions and technologies to keep your business ahead of the competition.",
+          "features": ["Technology Integration", "Digital Transformation", "Automation", "Innovation Strategy"]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Ready to take your business to the next level? Get in touch with our team of experts and let's discuss how we can help you achieve your goals.",
+      "contact_info": {
+        "phone": "092512547",
+        "email": "trangtritet24h@gmail.com",
+        "address": "65 Hung tế, Q.3 Hồ Chí Minh",
+        "business_hours": {
+          "weekdays": "Monday - Friday: 8:00 AM - 6:00 PM",
+          "saturday": "Saturday: 9:00 AM - 4:00 PM",
+          "sunday": "Sunday: Closed"
+        }
+      },
+      "contact_form": {
+        "fields": ["Full Name", "Phone Number", "Email Address", "Message"],
+        "required_fields": ["Full Name", "Phone Number", "Email Address"]
+      }
+    },
+    "footer": {
+      "company_info": {
+        "name": "Land Hùng Phát",
+        "description": "Your trusted business partner providing professional services and innovative solutions to help your business thrive in today's competitive market."
+      },
+      "quick_links": ["Home", "About Us", "Services", "Contact"],
+      "services_links": ["Business Consulting", "Professional Services", "Customer Support", "Quality Assurance"],
+      "contact_info": {
+        "address": "65 Hung tế, Q.3, Hồ Chí Minh, Vietnam",
+        "phone": "092512547",
+        "email": "trangtritet24h@gmail.com"
+      },
+      "social_media": ["Facebook", "Twitter", "LinkedIn", "Instagram"],
+      "legal_links": ["Privacy Policy", "Terms of Service", "Cookie Policy"]
+    }
+  },
+  "technical_specifications": {
+    "framework": "React with TypeScript",
+    "ui_library": "Shadcn-UI with Tailwind CSS",
+    "build_tool": "Vite",
+    "responsive_design": true,
+    "animations": "CSS transitions and transforms",
+    "accessibility": "WCAG compliant with proper semantic markup",
+    "performance": "Optimized with lazy loading and efficient bundling"
+  },
+  "design_features": {
+    "color_scheme": "Blue and indigo gradients with professional gray tones",
+    "typography": "Modern, clean typography with proper hierarchy",
+    "layout": "Responsive grid system with mobile-first approach",
+    "interactions": "Smooth scrolling navigation, hover effects, and micro-animations",
+    "imagery": "AI-generated placeholder images and gradient backgrounds",
+    "components": "Modular component architecture for maintainability"
+  }
+}
